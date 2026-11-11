@@ -1,11 +1,11 @@
 {
   "site": {
-    "name": "Your Name",
+    "name": "J A",
     "photo": "",
-    "title": "Your Name — Engineering Portfolio",
-    "tagline": "A short sentence about the work you want to do.",
-    "email": "you@example.com",
-    "location": "Your City, State",
+    "title": "J A — Engineering Portfolio",
+    "tagline": "Research in digital health and semiconductors.",
+    "email": "email@test.com",
+    "location": "Buffalo, NY & Rockland County, NY",
     "status": "Open to opportunities",
     "resume": "",
     "templateCredit": {
@@ -16,7 +16,7 @@
   "about": {
     "heading": "About",
     "paragraphs": [
-      "Introduce yourself here. Describe the kind of engineer, designer, researcher, or builder you are.",
+      "UB Student interested in research in the intersection of technology and healthcare.",
       "Add a second paragraph about a project, team, class, or problem that matters to you."
     ],
     "looking": "Use this space to say what you are looking for, such as an internship, collaborator, or full-time role.",
@@ -100,7 +100,7 @@
   ],
   "contact": [
     { "label": "Email", "url": "mailto:you@example.com", "icon": "mail" },
-    { "label": "GitHub", "url": "https://github.com/your-username", "icon": "github" },
+    { "label": "GitHub", "url": "https://github.com/jasleena689", "icon": "github" },
     { "label": "LinkedIn", "url": "https://www.linkedin.com/in/your-profile", "icon": "linkedin" }
   ]
 }
